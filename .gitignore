@@ -1,0 +1,4 @@
+*.o
+noSolBoard.txt
+task.txt
+sudokuSolver
